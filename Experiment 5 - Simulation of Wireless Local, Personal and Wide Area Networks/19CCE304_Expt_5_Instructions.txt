@@ -1,0 +1,36 @@
+Experiment 5
+------------
+
+Title: Simulation of wireless local, personal and wide area networks using NS2/NS3/Cisco Packet Tracer.
+
+
+Dear all,
+Greetings.
+
+1. 
+Simulation of wireless local, personal and wide area networks using NS3/Cisco Packet Tracer/NETSIM
+
+Implement the same using NS2/NS3/Cisco Packet Tracer and validate the results.
+
+2. Submit the same on or before 21.12.2022, through AUMS.
+
+3. Submit following things as *.pdf file format (File format : "19CCE304_Ex-5_Team-xx.pdf"
+
+a. Theory
+b. Source code
+c. Screen shots of intpus and outputs
+d. conclusion.
+e. References
+
+4. Refernce books: 
+a. http://nsnam.sourceforge.net/wiki/index.php/User_Information
+b. https://www.netacad.com/courses/packet-tracer
+c. www.tetcos.com
+
+
+5. Platform:
+Windows / Linux
+
+All the best,
+
+R.Gandhiraj
