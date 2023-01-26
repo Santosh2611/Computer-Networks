@@ -1,0 +1,50 @@
+Title: Network Health Monitoring using Wireshark packet sniffer
+- Capturing and analysing on Ethernet Networks
+- Capturing and analysing on 802.11 Wireless Networks
+- Capturing and analysing Bluetooth Traffic
+- Capturing and analysing USB Traffic
+
+
+Dear all,
+Greetings.
+
+1. 
+Network Health Monitoring using Wireshark packet sniffer
+
+Implement the same using Wireshark (https://www.wireshark.org/download.html).
+
+
+2. Submit the same on or before 31.12.2022, through AUMS.
+
+3. Submit following things as *.pdf file format (File format : "19CCE304_Ex-6_Team-xx.pdf"
+
+a. Theory
+b. Source code
+c. Screen shots of intpus and outputs
+d. conclusion.
+e. References
+
+4. Refernce books/links: 
+https://www.wireshark.org/download.html
+https://www.wireshark.org/docs/
+https://www.wireshark.org/tools/
+https://gitlab.com/wireshark/wireshark/-/wikis/home
+
+demo:
+
+Wireshark Tutorial for Beginners
+https://www.youtube.com/watch?v=TkCSr30UojM
+
+Network concepts introduction & wireshark workshop
+https://www.youtube.com/watch?v=HtNvcaqJHPw
+
+TCP Fundamentals Part 1 // TCP/IP Explained with Wireshark
+https://www.youtube.com/watch?v=xdQ9sgpkrX8
+
+
+5. Platform:
+Windows / Linux
+
+All the best,
+
+R.Gandhiraj
