@@ -1,0 +1,29 @@
+Lab Experiment 1
+---------------------
+
+Title: Simple Client Server Application Development using Python
+
+Dear all,
+Greetings.
+
+1. Develop a CLIENT-SERVER application using PYTHON language Protocols to be verified
+a. UDP
+B. TCP
+
+2. Submit the same on or before 27.9.2022
+
+3. Submit following things as *.pdf file format (File format : "19CCE304_Ex-1_TeamNumber.pdf"
+
+a. Theory
+b. Source code
+c. Screen shots of inputs and outputs
+d. conclusion.
+e. References
+
+4. Reference books: 
+a. Foundations of Python 3 Network Programming, Second Edition by John Goerzen, Brandon Rhodes
+b. Foundations of Python network programming by Beaulne, Alexandre Goerzen, John Membrey, Peter Rhodes, Brandon 2014.
+
+All the best,
+
+R.Gandhiraj
